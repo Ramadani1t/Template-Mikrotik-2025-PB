@@ -1,6 +1,6 @@
 ## 🔗 Template Ujikom By SMK Perbang
 Mikrotik Login Page With Clock, Praytimes, Timezone, And Countdown,
-support different themes、beautify UI by prettier.
+support different themes, beautify UI by prettier.
 
 ![Picture](https://github.com/Ramadani1t/Template-Mikrotik-2025-PB/blob/main/vlc-record-2025-04-24-21h15m22s-2025-04-24%2020-58-57.mp4-.gif?raw=true)
 
